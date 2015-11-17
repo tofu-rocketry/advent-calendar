@@ -49,11 +49,11 @@ header a:hover {
   background-color: #1f4272;
 }
 .demo-content {
-  width: 960px;
-  height: 300px;
+  max-width: 400px;
   margin-top: 90px;
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: 90px;
 }
 
 /* Styles for the Advent Calendar */
