@@ -16,3 +16,7 @@ if( /* ( currentDate.getMonth() + 1 ) < 12 || */ currentDate.getDate() < day ) {
 ```
 
 This way the Calendar will only check the day of the current month, but not the current month of the year, so it can be tested before December.
+
+## Demo
+
+You can find demo on [http://hongkiat.github.io/advent-calendar/](http://hongkiat.github.io/advent-calendar/)
