@@ -21,11 +21,11 @@ html {
 }
 body {
   margin: 0;
-  background-color: #e6e9ed;
-  font-family: "Lato", sans-serif;
+  background-color: #ffffff;
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 }
 header {
-  background-color: #254d86;
+  background-color: #a91b2e;
 }
 header h1,
 header a {
@@ -43,17 +43,16 @@ header a {
   padding-right: 20px;
   text-decoration: none;
   float: right;
-  background-color: #1a365e;
+  background-color: #3e863e;
 }
 header a:hover {
-  background-color: #1f4272;
+  background-color: #67c04d;
 }
 .demo-content {
-  max-width: 400px;
-  margin-top: 90px;
+  max-width: 934px;
+  margin-top: 20px;
   margin-right: auto;
   margin-left: auto;
-  margin-bottom: 90px;
 }
 
 /* Styles for the Advent Calendar */
@@ -67,7 +66,7 @@ ul#adventDoors {
 	position: absolute;
 }
 #adventDoors li a {
-	color: #fff;
+	color: #e94d36;
 	width: 100%;
 	height: 100%;
 	font-size: 24px;
@@ -76,10 +75,10 @@ ul#adventDoors {
 	flex-direction: column;
 	justify-content: center;
 	text-decoration: none;
-	border: 1px #fff solid;
+	border: 2px #e94d36 solid;
 }
 #adventDoors li a:not(.disabled):hover {
-	color: #fff;
+	color: #e94d36;
 	background-color: transparent;
 	background-color: rgba(255,255,255,0.15);
 }
