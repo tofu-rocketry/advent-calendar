@@ -21,8 +21,9 @@ html {
 }
 body {
   margin: 0;
-  background-color: #ffffff;
+  background-color: #fff;
   font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  color: #2e2d62;
 }
 header {
   background-color: #a91b2e;
@@ -66,25 +67,25 @@ ul#adventDoors {
 	position: absolute;
 }
 #adventDoors li a {
-	color: #e94d36;
+	color: #fbbb10;
 	width: 100%;
 	height: 100%;
-	font-size: 24px;
+	font-size: 28px;
 	text-align: center;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	text-decoration: none;
-	border: 2px #e94d36 solid;
+	border: 1px #f08900 solid;
 }
 #adventDoors li a:not(.disabled):hover {
-	color: #e94d36;
+	color: #67c04d;
 	background-color: transparent;
 	background-color: rgba(255,255,255,0.15);
 }
 #adventDoors li a.disabled {
-	border-color: #b6fe98;
-	background-color: rgba(196,254,171,0.15);
-	color: #b6fe98;
+	border-color: #e94d36;
+	background-color: #676767;
+	color: #e94d36;
 	cursor: default;
 }
