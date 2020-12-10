@@ -8,7 +8,7 @@ var messages = [
 	["https://www.youtube.com/watch?v=17kRZsYNyFs&t=18", "Seaton Tramway - Works Car No.2 (and a robin!)"],
 	["https://www.youtube.com/watch?v=v89DuGzQLP4", "Scunthorpe Steelworks High Line"],
 	["https://www.youtube.com/watch?v=kjWsElg-gaw", "Chinese Steam 2011 - Beitai Steelworks 1"],
-	["", ""],
+	["https://www.youtube.com/watch?v=P2ZIF-9adVM", "Canadian Pacific Holiday Train"],
 	["", ""],
 	["", ""],
 	["", ""],
