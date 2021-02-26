@@ -22,6 +22,6 @@ var messages = [
 	["https://www.youtube.com/watch?v=QuxgK1dXN_E", "Tsugaru Railway - Virtual train ride between Kase and Bishamon"],
 	["https://www.youtube.com/watch?v=Fgcp0PNxOs4", "Call Out The Plow!!"],
 	["", ""],
-	["", ""],
+	["https://www.youtube.com/watch?v=orBcOWxui2Y", "Snow Removal and Winter Operation on the Garden Railway (with cat)"],
 	["", ""]
 ];
