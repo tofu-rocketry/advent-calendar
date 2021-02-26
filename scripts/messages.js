@@ -20,7 +20,7 @@ var messages = [
 	["https://www.youtube.com/watch?v=GCP5edqTSKg", "Snow, train and ships (drone)"],
 	["https://www.youtube.com/watch?v=7m_wHJNeY0U", "Steam, Smoke and Thunder on the Western Maryland Scenic Railroad"],
 	["https://www.youtube.com/watch?v=QuxgK1dXN_E", "Tsugaru Railway - Virtual train ride between Kase and Bishamon"],
-	["", ""],
+	["https://www.youtube.com/watch?v=Fgcp0PNxOs4", "Call Out The Plow!!"],
 	["", ""],
 	["", ""],
 	["", ""]
